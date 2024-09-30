@@ -85,15 +85,15 @@ h3 {
     grid-template-columns: 50% 50%;
   }
   .personaje-img {
-    width: 130px;
-    height: 200px;
+    width: 120px;
+    height: 180px;
   }
   #card {
-    width: 180px;
+    width: 170px;
     height: 300px;
   }
   h2 {
-    font-size: 30px;
+    font-size: 28px;
   }
   h3 {
     font-size: 18px;
