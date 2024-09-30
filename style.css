@@ -57,7 +57,7 @@ h3 {
 .personaje-img {
   width: 120px;
   height: 250px;
-  margin-top: 14px;
+  margin-top: 18px;
 }
 
 @media (max-width: 1299px) {
@@ -66,34 +66,37 @@ h3 {
   }
   .personaje-img {
     width: 140px;
-    height: 180px;
+    height: 240px;
   }
   #card {
-    width: 180px;
-    height: 260px;
+    width: 220px;
+    height: 380px;
   }
   h2 {
-    font-size: 22px;
+    font-size: 36px;
   }
   #container-btn {
     gap: 10px;
     }
 }
 
-@media (max-width: 708px) {
+@media (max-width: 768px) {
   #container-api {
     grid-template-columns: 50% 50%;
   }
   .personaje-img {
     width: 130px;
-    height: 190px;
+    height: 200px;
   }
   #card {
-    width: 160px;
-    height: 270px;
+    width: 180px;
+    height: 300px;
+  }
+  h2 {
+    font-size: 30px;
   }
   h3 {
-    font-size: 12px;
+    font-size: 18px;
   }
   #container-btn {
     display: grid;
