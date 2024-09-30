@@ -4,7 +4,8 @@
 
 ### Mobile and desktop view
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN_P1Qc17wJ1dlViLzUu1MVYWwiBsMyc7sx0lv0zw7zCCqCwErFyQ3I51R9GQK2wMW2A&usqp=CAU
+![images](https://github.com/user-attachments/assets/abb974aa-f712-4322-8d9c-9d4c27869b39)
+
 
 #### Vista previa:
 
