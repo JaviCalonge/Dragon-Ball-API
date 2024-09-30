@@ -57,21 +57,8 @@ h3 {
 .personaje-img {
   width: 120px;
   height: 250px;
+  margin-top: 14px;
 }
-
-/* @media (max-width: 1300px) {
-  .personaje-img {
-    width: 60px;
-    height: 99px;
-  }
-  #card {
-    width: 80px;
-    height: 120px;
-  }
-  #container-api {
-    grid-template-columns: 33.33% 33.33% 33.33%;
-  }
-} */
 
 @media (max-width: 1299px) {
   #container-api {
@@ -88,6 +75,9 @@ h3 {
   h2 {
     font-size: 22px;
   }
+  #container-btn {
+    gap: 10px;
+    }
 }
 
 @media (max-width: 708px) {
@@ -95,14 +85,19 @@ h3 {
     grid-template-columns: 50% 50%;
   }
   .personaje-img {
-    width: 120px;
-    height: 170px;
+    width: 130px;
+    height: 190px;
   }
   #card {
-    width: 150px;
-    height: 230px;
+    width: 160px;
+    height: 270px;
   }
   h3 {
     font-size: 12px;
+  }
+  #container-btn {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    margin: 30px;
   }
 }
